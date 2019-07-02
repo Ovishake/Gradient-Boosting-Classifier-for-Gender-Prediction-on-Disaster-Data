@@ -3,4 +3,6 @@ Gradient Boosting Classifier for Gender Prediction on Disaster Data of travelers
 
 Data Source: Kaggle
 
+Test Result: AUC_ROC 0.89
+
 Keywords: Gradient Boosting Classifier, GB Classifier, sklearn, ROC, AUCROC
